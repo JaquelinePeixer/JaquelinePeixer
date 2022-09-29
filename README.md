@@ -9,11 +9,8 @@
 <!--
 🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
  
-<br>
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.-->
-
-<br>
+💬 Caso queira entrar em contato comigo, deixo abaixo os meus contatos pessoais:
+-->
 
 <div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/jaquelinepeixer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
