@@ -16,8 +16,7 @@
 <br>
 
 <div style="display: flex; gap: 10px;">
-    <a href="https://www.linkedin.com/in/jaquelinepeixer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
-   <a href="https://api.whatsapp.com/send?phone=5547984483109" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+    <a href="https://www.linkedin.com/in/jaquelinepeixer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="mailto:peixer.jaqueline@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
 
@@ -51,7 +50,7 @@
 
 <br> 
 
-**Software**
+**Ferramentas**
 <div style="display: flex; gap: 3px;">
   <img align="center" alt="icon-jira" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original-wordmark.svg">
   <img align="center" alt="icon-vscode" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
@@ -71,7 +70,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaquelinePeixer&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelinePeixer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelinePeixer&layout=compact)
 
 
 ![GitHub Visitor](https://visitor-badge.glitch.me/badge?page_id=JaquelinePeixer)
