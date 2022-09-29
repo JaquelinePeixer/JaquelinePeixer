@@ -20,7 +20,6 @@
    <a href="https://api.whatsapp.com/send?phone=5547984483109" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
    <a href="mailto:peixer.jaqueline@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 </div>
-<br>
 
 ----
 
@@ -72,6 +71,7 @@
 
 ## ⭐ Informações sobre minha conta GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaquelinePeixer&show_icons=true)
-![GitHub Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelinePeixer&hide=html&layout=compact=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelinePeixer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![GitHub Visitor](https://visitor-badge.glitch.me/badge?page_id=JaquelinePeixer)
