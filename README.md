@@ -1,10 +1,10 @@
-## 💜 Olá, meu nome é <strong>Jaqueline Peixer</strong>!
+## 💜 Hi, my name is <strong>Jaqueline Peixer</strong>!
 
-> Desde **2015** atuo na área web, trabalhando inicialmente com design gráfico e marketing digital. 
+> Since **2015** I have worked in the web area, initially working with graphic design and digital marketing.
  
-> **Em 2017 inicio minha trajetória como front-end** com a criação da minha empresa (Girafa Digital) participando de toda a concepção de um projeto, desde a captação do briefing, criação de protótipo até o desenvolvimento e entrega do projeto final.
+> **In 2017 I began my career as a front-end** with the creation of my company (Girafa Digital) participating in the entire conception of a project, from capturing the briefing, creating a prototype to the development and delivery of the final project .
  
-> Sou formada em **publicidade e propaganda** e já realizei diversos cursos livres voltados a **UX, Design de Interface e Programação Front-end** em especial Angular, Firebase e Wordpress. Atualmente estudo sobre React através da rocketseat.
+> I have a degree in **advertising** and have already taken several free courses focused on **UX, Interface Design and Front-end Programming**, especially Angular, Firebase and Wordpress.
 
 <div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/jaquelinepeixer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -13,7 +13,7 @@
 
 ----
 
-## 🚀 Minhas Skills
+## 🚀 My Skills
 
 **Front-end**
 <div style="display: flex; gap: 3px;">
@@ -37,14 +37,14 @@
 
 <br> 
 
-**Estudos em andamento**
+**Ongoing studies**
 <div style="display: flex; gap: 3px;">
   <img align="center" alt="icon-react" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 </div>
 
 ---
 
-## ⭐ Informações sobre minha conta GitHub
+## ⭐ Information about my GitHub account
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaquelinePeixer&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelinePeixer&layout=compact)
 
