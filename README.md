@@ -2,9 +2,9 @@
 
 > Since **2015** I have worked in the web area, initially working with graphic design and digital marketing.
  
-> **In 2017 I began my career as a front-end** with the creation of my company (Girafa Digital) participating in the entire conception of a project, from capturing the briefing, creating a prototype to the development and delivery of the final project .
+> **In 2017 I began my career as a Frontend** with the creation of my company (Girafa Digital) participating in the entire conception of a project, from capturing the briefing, creating a prototype to the development and delivery of the final project .
  
-> I have a degree in **advertising** and have already taken several free courses focused on **UX, Interface Design and Front-end Programming**, especially Angular, Firebase and Wordpress.
+> I have a degree in **advertising** and have already taken several free courses focused on **Frontend Programming and UX, Interface Design**, especially Angular, IONIC, Firebase and Wordpress.
 
 <div style="display: flex; gap: 10px;">
     <a href="https://www.linkedin.com/in/jaquelinepeixer/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
