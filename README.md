@@ -41,12 +41,3 @@
 <div style="display: flex; gap: 3px;">
   <img align="center" alt="icon-react" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 </div>
-
----
-
-## ⭐ Information about my GitHub account
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JaquelinePeixer&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaquelinePeixer&layout=compact)
-
-
-<!--![GitHub Visitor](https://visitor-badge.glitch.me/badge?page_id=JaquelinePeixer)-->
